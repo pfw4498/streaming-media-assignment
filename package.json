@@ -2,7 +2,7 @@
   "name": "streaming-media-assignment",
   "version": "1.0.0",
   "engines": {
-    "node": "8.4.0",
+    "node": "8.10.0",
     "npm": "6.2.0"
   },
   "description": "Streaming Media Assignment",
