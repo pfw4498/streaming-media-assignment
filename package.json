@@ -1,0 +1,31 @@
+{
+  "name": "streaming-media-assignment",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.4.0",
+    "npm": "6.2.0"
+  },
+  "description": "Streaming Media Assignment",
+  "main": "./src/server.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "scripts": {
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix",
+    "test": "echo \"Tests complete\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfw4498/streaming-media-assignment.git"
+  },
+  "author": "Parker Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfw4498/streaming-media-assignment/issues"
+  },
+  "homepage": "https://github.com/pfw4498/streaming-media-assignment#readme"
+}
